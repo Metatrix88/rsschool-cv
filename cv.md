@@ -22,3 +22,29 @@ English.
 * **Version control systems:** Git, Github;
 * **Project management:** Scrum/ Kanban;
 * **Tools:** Jira, Confluence, Microsoft Office;
+## CODE EXAMPLE
+```
+function multiply(a, b){
+   return a * b
+}
+const assert = require("chai").assert;
+
+describe("Multiply", () => {
+  it("fixed tests", () => {
+    assert.strictEqual(multiply(1,1), 1);
+    assert.strictEqual(multiply(2,1), 2);
+    assert.strictEqual(multiply(2,2), 4);
+    assert.strictEqual(multiply(3,5), 15);
+  });
+});
+```
+## EDUCATION
+* **Education Center for Programming and High Tech Python Developer:** May 2022 - August 2022
++ Studying programm: [link](https://www.it-academy.by/course/python-developer/pt-python-developer/?set_city=84)
++ Electronic certificate: [link](https://drive.google.com/file/d/1MYJY04Qo-rYTPED5pfAYlWga_fdKMPCO/view)
+* **Udemy Course Python Developer:** May 2022
+* **Moscow State University of Economics, Statistics, and
+Informatics**
+  - Economist: September 2009 - July 2014
+* **Minsk State Mechanical-Engineering College**
+  + Technician: September 2005 - July 2009
