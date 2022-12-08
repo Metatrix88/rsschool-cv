@@ -1,5 +1,5 @@
 # Andrey Davidovich
-## Contact
+## CONTACT
 * **Discord:** Andrey Davidovich(@Metatrix88)
 * **E-mail:** andrejdavidovich88@gmail.com
 * **LinkedIn:** [link](https://www.linkedin.com/in/andrey-davidovich-718b30248/)
@@ -13,3 +13,12 @@ afraid of difficult tasks and open for challenges.
 Almost every day I improve my knowledge in
 Python, HTML, SQL and work on level up my
 English.
+## SKILLS
+* **Languages:** Python (Django Framework);
+* **Web development:** HTML5 (basic);
+* **Database Management:** MySQL (basic);
+* **IDE:** VS Code;
+* **OS:** Linux, Windows;
+* **Version control systems:** Git, Github;
+* **Project management:** Scrum/ Kanban;
+* **Tools:** Jira, Confluence, Microsoft Office;
