@@ -48,3 +48,6 @@ Informatics**
   - Economist: September 2009 - July 2014
 * **Minsk State Mechanical-Engineering College**
   + Technician: September 2005 - July 2009
+## LANGUAGES
+* Russian - native
+* English - A2 -> B1 (in progress)
