@@ -1,1 +1,1 @@
-https://Metatrix88.github.io/rsschool-cv/cv
+https://Metatrix88.github.io/rsschool-cv/
